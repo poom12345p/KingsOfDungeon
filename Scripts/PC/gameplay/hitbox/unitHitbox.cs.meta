@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e29339bcdf015364c8806f9a8b551d1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpRing: {instanceID: 0}
+  - reviveArea: {instanceID: 0}
+  - ultimateManager: {instanceID: 0}
+  - damageManager: {instanceID: 0}
+  - statContol: {instanceID: 0}
+  - model: {instanceID: 0}
+  - blinkMesh: {fileID: 2100000, guid: 88b64c098bf3ce04a883d7a6602e5279, type: 2}
+  - anim: {instanceID: 0}
+  - normalMesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

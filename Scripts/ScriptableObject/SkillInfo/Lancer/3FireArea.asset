@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df8c51b9bda7e5e488df6f22b2732c0e, type: 3}
+  m_Name: 3FireArea
+  m_EditorClassIdentifier: 
+  skillCode: 3
+  skillTitle: Fire Warp
+  SkillDescription: Create fire area after warp
+  SkillImage: {fileID: 21300000, guid: 00e90a98acf5fd04999b90f88775e108, type: 3}
+  skillFor: LANCER
+  tier: 2
+  neededSkill: {fileID: 0}
+  limitAmount: 1

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df8c51b9bda7e5e488df6f22b2732c0e, type: 3}
+  m_Name: DamageUp
+  m_EditorClassIdentifier: 
+  skillCode: 103
+  skillTitle: Damage Up
+  SkillDescription: Increase your base attack permanently
+  SkillImage: {fileID: 21300000, guid: be511de309a83c1479ede2d882d42855, type: 3}
+  skillFor: ALL
+  tier: 0
+  neededSkill: {fileID: 0}
+  limitAmount: 3

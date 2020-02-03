@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3a73c1f35165644ad36edbd36cafa2, type: 3}
+  m_Name: SharedTutorial
+  m_EditorClassIdentifier: 
+  instructionForCharacter: ALLCHARACTER
+  allInstruction:
+  - tutorialTitle: Walking
+    instructionText: Try Walking Around, Hold your left side of controller and drag
+      to the direction you want to walk to
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Avoid Obstacle
+    instructionText: Avoid things that can deal damage to you!!
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Item
+    instructionText: Get Item To Power up your character
+    instructionSprite: {fileID: 21300000, guid: 3897c7d77790e67418dc01a44c99637c,
+      type: 3}
+  - tutorialTitle: Treasure Room
+    instructionText: Hit the box to open and get an item
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Heal Room
+    instructionText: Stay in the pool to heal your self
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Warp Gate
+    instructionText: When playing in a real game you will need to defeat Boss and
+      warp gate will appear, Enter the warp gate to go to the next stage
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Revive Room
+    instructionText: Stay in green circle to REVIVE your fallen friend
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: MapTable
+    instructionText: Enter MapTable area and tilt your phone up to see the map in
+      top view
+    instructionSprite: {fileID: 0}

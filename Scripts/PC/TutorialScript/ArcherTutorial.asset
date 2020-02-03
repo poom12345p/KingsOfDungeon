@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3a73c1f35165644ad36edbd36cafa2, type: 3}
+  m_Name: ArcherTutorial
+  m_EditorClassIdentifier: 
+  instructionForCharacter: ARCHER
+  allInstruction:
+  - tutorialTitle: Archer Attacking
+    instructionText: Attack by hold down the right side of the controller drag the
+      controller to aim and release to attack
+    instructionSprite: {fileID: 21300000, guid: 45dbc8fc84cc16645aa2a2dd6f1edde8,
+      type: 3}
+  - tutorialTitle: Ulti Attack
+    instructionText: Shake Your phone to begin, turn your phone to the direction you
+      want to shoot your ulti than attack
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Special Skill
+    instructionText: Archer can change arrow type by filp your phone up and down,
+      you can also slide by double tap your left side of the controller
+    instructionSprite: {fileID: 0}

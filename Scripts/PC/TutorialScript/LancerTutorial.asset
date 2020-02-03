@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3a73c1f35165644ad36edbd36cafa2, type: 3}
+  m_Name: LancerTutorial
+  m_EditorClassIdentifier: 
+  instructionForCharacter: LANCER
+  allInstruction:
+  - tutorialTitle: Lancer Attacking
+    instructionText: Tapping the right side of your controller to attack
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Ulti Attack
+    instructionText: Continuously Shaking your phone to use, Lancer will rush and
+      drag the enemy along the attacking path, you can control path by normal walking
+      control
+    instructionSprite: {fileID: 0}
+  - tutorialTitle: Special SKill
+    instructionText: Hold attack button until blue aura appear to use blink attack
+    instructionSprite: {fileID: 0}
