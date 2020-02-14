@@ -8,5 +8,11 @@ Kings of Dungeon is PC Rogue-like Game which is controled by using moblie Phone.
 - [ Controller for Moblie (Andorid)](https://drive.google.com/file/d/1WyQe8FCqdi0LQp-wVsVBogxeotXabuEY/view?usp=sharing).
 - [Download Demo](https://drive.google.com/file/d/1vvwrIh4cFjPe9sXH7D3rbYO5sUhFwsXE/view?usp=sharing)
 ## Poster
-
 ![Poster](/TK7003_KingsOfDungeon.png)
+##Screenshots
+## Rewards
+- Qualified and join SCB Foundation (Torkla) Year 7.
+## Development Tools
+- Unity Engine 
+- Visaul Studio
+- Mixamo.com
