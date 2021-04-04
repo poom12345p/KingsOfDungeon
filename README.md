@@ -8,20 +8,14 @@ Kings of Dungeon is PC Rogue-like Game which is controled by using moblie Phone.
 - [ Controller for Moblie (Andorid)](https://drive.google.com/file/d/1WyQe8FCqdi0LQp-wVsVBogxeotXabuEY/view?usp=sharing).
 - [Download Demo](https://drive.google.com/file/d/1vvwrIh4cFjPe9sXH7D3rbYO5sUhFwsXE/view?usp=sharing)
 ## Poster
-![Poster](/Picture/poster.png)
-## Concept Arts
-![normal](/Picture/conceptart_normal.JPG)
-![fire](/Picture/conceptart_fire.JPG)
-![water](/Picture/conceptart_water.JPG)
-![wind](/Picture/conceptart_wind.JPG)
-![rock](/Picture/conceptart_rock.JPG)
+![Poster](/TK7003_KingsOfDungeon.png)
 ## Screenshots
-![gp1](/Picture/gp_1.png)
-![gp2](/Picture/gp_2.png)
-![gp3](/Picture/gp_3.png)
-![gp4](/Picture/gp_4.png)
-![gp5](/Picture/gp_5.png)
-![gp6](/Picture/gp_6.png)
+- gampeplay
+![gammeplay1](/picture/gameplay1.png)
+- state map
+![gammeplay2](/picture/gameplay2.png)
+- controller
+![controller2](/picture/controller_archer_example3.png)
 ## Rewards
 - Qualified and join SCB Foundation (Torkla) Year 7.
 ## Development Tools
